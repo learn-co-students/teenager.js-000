@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="3" errors="0" failures="0" time="0.005" timestamp="2015-10-16T02:33:26">
+		<testcase classname="#isTeenager" name="returns false if the person is younger than 13" time="0.002">
+		</testcase>
+		<testcase classname="#isTeenager" name="returns false if the person is older than 19" time="0">
+		</testcase>
+		<testcase classname="#isTeenager" name="returns true if the person is between the ages of 13 and 19" time="0">
+		</testcase>
+	</testsuite>
+</testsuites>
+
